@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FAFAFA"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Archivo, Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="210" font-weight="800" letter-spacing="6" fill="#0A0A0B">TT</text>
+  <path d="M 120 352 C 200 366, 300 362, 372 346 C 408 338, 420 318, 428 296" fill="none" stroke="#1F4BFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 412 306 L 430 290 L 440 316" fill="none" stroke="#1F4BFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
