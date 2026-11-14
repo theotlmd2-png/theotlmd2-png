@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Jungle God">
+  <rect width="128" height="128" rx="28" fill="#0D1F16"/>
+  <path d="M92 18c18 18 18 42 2 60c-10-18-12-40-2-60z" fill="#22C55E" fill-opacity="0.35"/>
+  <text x="22" y="82" font-family="JetBrains Mono, SF Mono, Menlo, monospace" font-size="44" font-weight="700" fill="#22C55E">❯</text>
+  <text x="54" y="82" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#F8FAFC">JG</text>
+</svg>
